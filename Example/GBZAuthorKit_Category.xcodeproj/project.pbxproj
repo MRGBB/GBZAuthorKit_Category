@@ -505,7 +505,7 @@
 				GCC_PREFIX_HEADER = "GBZAuthorKit_Category/GBZAuthorKit_Category-Prefix.pch";
 				INFOPLIST_FILE = "GBZAuthorKit_Category/GBZAuthorKit_Category-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.GBZApisKit-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.GBZAuthorKit-Category-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -521,7 +521,7 @@
 				GCC_PREFIX_HEADER = "GBZAuthorKit_Category/GBZAuthorKit_Category-Prefix.pch";
 				INFOPLIST_FILE = "GBZAuthorKit_Category/GBZAuthorKit_Category-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.GBZApisKit-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.GBZAuthorKit-Category-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

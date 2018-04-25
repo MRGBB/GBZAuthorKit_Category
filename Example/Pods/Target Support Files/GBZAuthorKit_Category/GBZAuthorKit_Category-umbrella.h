@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CTMediator+Author.h"
 
 FOUNDATION_EXPORT double GBZAuthorKit_CategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char GBZAuthorKit_CategoryVersionString[];
