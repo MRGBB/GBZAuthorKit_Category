@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBZAuthorKit_Category_Example' do
+  pod 'GBZAuthorKit_Category', :path => '../'
+
+  target 'GBZAuthorKit_Category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
