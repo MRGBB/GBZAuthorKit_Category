@@ -1,0 +1,30 @@
+{
+  "name": "GBZAuthorKit_Category",
+  "version": "1",
+  "summary": "A short description of GBZAuthorKit_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MRGBB/GBZAuthorKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MRGBB": "guobb@pifubao.com"
+  },
+  "source": {
+    "git": "https://github.com/MRGBB/GBZAuthorKit_Category.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GBZAuthorKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "GBZApisKit": [
+
+    ]
+  }
+}
